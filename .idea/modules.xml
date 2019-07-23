@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter_02/datasource-demo/datasource-demo.iml" filepath="$PROJECT_DIR$/chapter_02/datasource-demo/datasource-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/geektime-spring-family.iml" filepath="$PROJECT_DIR$/geektime-spring-family.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_01/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/chapter_01/hello_world/hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_02/pure-spring-datasource-demo/pure-spring-datasource-demo.iml" filepath="$PROJECT_DIR$/chapter_02/pure-spring-datasource-demo/pure-spring-datasource-demo.iml" />
     </modules>
   </component>
 </project>

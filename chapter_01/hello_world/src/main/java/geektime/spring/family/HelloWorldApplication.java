@@ -15,6 +15,6 @@ public class HelloWorldApplication {
 
 	@RequestMapping("/hello")
 	public String hello() {
-		return "Hello, world!";
+		return "Hello, world! this is my fist spring boot application";
 	}
 }
